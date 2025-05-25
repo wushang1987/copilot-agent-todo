@@ -22,6 +22,10 @@ Please continue working on this until the task is completed.
 
 A full stack TODO application with Node.js, Express, MongoDB backend and React, Material UI frontend. Uses pnpm for package management.
 
+## The final achieved effect：
+![image](https://github.com/user-attachments/assets/71d75dff-4e5f-47ec-bcf4-b039f14222c7)
+
+
 ## Features
 
 - Add tasks
